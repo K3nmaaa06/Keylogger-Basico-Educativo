@@ -1,10 +1,8 @@
 # Keylogger-Basico-Educativo
-# Keylogger Educativo - Trabajo Final de Seguridad Informática
 
 > ⚠️ **ADVERTENCIA LEGAL**
 > Este proyecto es un keylogger desarrollado **exclusivamente con fines
-> educativos** como parte del trabajo final del curso de Seguridad
-> Informática de [Nombre de tu institución].
+> educativos** 
 >
 > **Está estrictamente prohibido su uso en sistemas sin autorización
 > explícita y por escrito del propietario.** La ejecución de este software
@@ -35,17 +33,6 @@ Este proyecto está pensado para:
 - Robar credenciales o información de terceros.
 - Ejecutar en equipos ajenos sin permiso explícito.
 - Cualquier actividad que viole la legislación vigente.
-
-## Requisitos para compilar
-
-- Kali Linux (o Debian/Ubuntu) como entorno de cross-compilación.
-- `x86_64-w64-mingw32-g++` (MinGW-w64).
-- `libcurl` compilado para MinGW con soporte SSL.
-- Alternativa: compilar directamente en Windows con MSYS2.
-
-## Compilación
-
-[Comando exacto de compilación documentado]
 
 ## Configuración
 
