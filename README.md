@@ -51,3 +51,9 @@ Este proyecto está pensado para:
 
 1. Crear un archivo `webhook.txt` en el mismo directorio que el `.exe`
    con la URL del webhook de Discord:
+   
+## Modo de uso 
+1. Una vez clonado el repositorio descarga en la misma carpeta el cacert.perm con: https://curl.se/ca/cacert.pem
+2. El webhook_example.txt está con un link de referencia, copia tu propio link de tu propio webhook y pegalo ahí
+3. Compila el código y ya! :D
+
